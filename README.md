@@ -3,6 +3,10 @@ akismet-async
 
 An asyncronous Python 3 Akismet client library.
 
+[![PyPI Downloads](https://img.shields.io/pypi/dm/akismet-async.svg)](https://pypi.org/project/akismet-async/)
+[![PyPI Version](https://img.shields.io/pypi/v/akismet-async.svg)](https://pypi.org/project/akismet-async/)
+[![License](https://img.shields.io/badge/license-mit-blue.svg)](https://pypi.org/project/akismet-async)
+
 ## Installation
 ```
 pip install akismet-async
