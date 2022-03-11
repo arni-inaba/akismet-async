@@ -25,7 +25,7 @@ for greater type safety:
 ```python
 from akismet import Akismet, Comment
 
-akismet_client = Akismet(api_key="YOUR_AKISMET_API_KEY" blog="http://your.blog/",
+akismet_client = Akismet(api_key="YOUR_AKISMET_API_KEY", blog="http://your.blog/",
                 user_agent="My App/1.0.0")
 
 comment = Comment(
